@@ -17,4 +17,4 @@ This repository contains the `AuditSystem` smart contract, developed using Solid
 Open an issue or submit a pull request!
 
 ## License
-MIT License.
+STAYFOR License.
